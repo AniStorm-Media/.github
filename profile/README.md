@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to AniStorm Media (Добро пожаловать в AniStorm Media)
 
 <!--
 
